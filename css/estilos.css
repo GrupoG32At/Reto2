@@ -1,0 +1,24 @@
+.container-nav{
+    margin-bottom: 40px;
+}
+
+.container-nav ul{
+    list-style: none;
+    background-color: darkgrey;
+}
+
+.container-nav ul li{
+    display: inline-block;
+    text-align: center;
+}
+
+.container-nav ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 20px;
+}
+
+.container-nav ul li a:hover{
+    background-color: coral;
+}
